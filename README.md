@@ -1,4 +1,4 @@
-## RISC-V CPU Emulator
+### RISC-V CPU Emulator
 
 This project is an emulation of a CPU based on the RISC-V architecture, developed in TypeScript. Currently, it includes the implementation of a memory mapping system using a RAM device.
 
