@@ -1,0 +1,22 @@
+{
+  "name": "risc-v-cpu-emu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.9.3",
+    "ts": "^0.2.2",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "tsc": "^2.0.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
